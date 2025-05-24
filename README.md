@@ -1,6 +1,6 @@
 # 🛠️ Tech Blog & Developer Journal
 
-Welcome to my personal tech journal — a growing collection of tips, guides, scripts, and notes gathered from my day-to-day experiences as a developer.
+Welcome to my personal tech journal, my name is Bruno Silva.
 
 Here you'll find:
 - Shell scripts and command-line tricks
