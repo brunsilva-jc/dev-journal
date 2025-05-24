@@ -96,7 +96,7 @@ source ~/.bashrc
 
 ---
 
-## Done!
+## That's It!
 
 Now you can call your script from any location:
 
@@ -104,5 +104,3 @@ Now you can call your script from any location:
 extract_ips.sh file.log
 extract_ips.sh /path/to/file.log
 ```
-
-Happy scripting! 🎉
